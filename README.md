@@ -16,7 +16,7 @@ It preserves, promotes, and presents key aspects of South Indian cultures that a
 The museum is currently working towards creating Audioguides and starting Guided tours to enhance visitor experience and understanding of those cultures. In April 2025 I had the opportunity to help a bit in 
 the verification of the audioguide script
 
-## Approach (Design & Develop)
+## Approach
 - Methodology: **ADDIE** (Analyze → Design → Develop → Implement → Evaluate)  
 - Learning objectives: explain role & limits; articulate human guide added value; identify audience types  
 - Deliverables: slide deck, facilitator guide, one-page handout, quizzes
@@ -28,7 +28,7 @@ the verification of the audioguide script
 - Implement: Materials are ready-to-run with timing & prompts for the 60 minutes session for repeatability
 - Evaluate: Evaluation uses pre/post quiz and participant feedback (Kirkpatrick Level 1 & 2)
 
-## Problem / Need (Analyze)
+## Needs Analysis
 The Dakshina Chitra Museum does not have Guides currently. The Guides-to-be need to be Trained and this first session is part of a series to Train them regarding what is expected of them: What it means to be a
 Guide, Why a Guide is useful (especially compared to the Audioguide being created for the museum) and the importance of Adapting to the Group you are Guiding.
 This module addresses those gaps with a short train-the-trainer session.
