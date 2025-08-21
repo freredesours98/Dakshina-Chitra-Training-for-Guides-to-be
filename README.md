@@ -20,7 +20,7 @@ the verification of the audioguide script
 - Methodology: **ADDIE** (Analyze → Design → Develop → Implement → Evaluate)  
 - Learning objectives: explain role & limits; articulate human guide added value; identify audience types  
 - Deliverables: slide deck, facilitator guide, one-page handout, quizzes
-- 
+  
 ## ADDIE mapping
 - Analyze: Needs: The museum does not have Guides currently, they need to be Trained
 - Design: SMART objectives — Explain Guide role and their relevance through a 60-minutes workshop
