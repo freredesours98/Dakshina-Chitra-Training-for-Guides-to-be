@@ -33,7 +33,7 @@ The Dakshina Chitra Museum does not have Guides currently. The Guides-to-be need
 Guide, Why a Guide is useful (especially compared to the Audioguide being created for the museum) and the importance of Adapting to the Group you are Guiding.
 This module addresses those gaps with a short train-the-trainer session
 
-## Instructional design: Gagné’s Nine Events — implementation
+## Design and Implementation
 
 This module was intentionally designed using **Gagné’s Nine Events**. Below is how each event maps to the session deliverables and evaluation:
 
